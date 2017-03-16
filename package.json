@@ -34,7 +34,7 @@
     "url": "https://github.com/ipld/js-cid/issues"
   },
   "dependencies": {
-    "multibase": "~0.3.4",
+    "multibase": "0.3.3",
     "multicodec": "~0.1.7",
     "multihashes": "~0.4.4"
   },
