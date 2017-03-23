@@ -36,7 +36,7 @@
   "dependencies": {
     "multibase": "~0.3.4",
     "multicodec": "~0.1.7",
-    "multihashes": "~0.4.4"
+    "multihashes": "~0.4.5"
   },
   "devDependencies": {
     "aegir": "^11.0.0",
