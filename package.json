@@ -35,7 +35,7 @@
     "url": "https://github.com/ipld/js-cid/issues"
   },
   "dependencies": {
-    "multibase": "~0.3.4",
+    "multibase": "github:tableflip/js-multibase#feat/mnemonic-base",
     "multicodec": "~0.2.3",
     "multihashes": "~0.4.9"
   },
